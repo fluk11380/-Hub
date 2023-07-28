@@ -12,12 +12,12 @@ _G.config = {
 
 	AutoSkillPoints = "Magic", -- Auto uses skill points, set to false to disable
 
-	AutoSell = false,
+	AutoSell = true,
 	SellTab = {
 		Rarities = { -- Auto Sells weapons with the specified rarity
 			["Common"] = true,
 			["Unique"] = true,
-			["Rare"] = false,
+			["Rare"] = true,
 			["Epic"] = false,
 			["Legendary"] = false,
 		},
