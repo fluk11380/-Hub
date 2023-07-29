@@ -5,7 +5,7 @@ _G.config = {
 	JoinBestLocation = true, -- Joins the best dungeon you are elligible to play
 	Map = {
 		Location = "Jungle Temple", -- If "JoinBestLocation" is true this field does not need to be filled out
-		Difficulty = "Easy", -- If "JoinBestLocation" is true this field does not need to be filled out
+		Difficulty = "Medium", -- If "JoinBestLocation" is true this field does not need to be filled out
 		Hardcore = true,
 		PartyOnly = true,
 	},
